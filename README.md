@@ -5,8 +5,11 @@
 
 
 These repositories will help you learn test automation
-https://github.com/berpress/flask-restful-api
 
-https://github.com/berpress/js-api-tests
+Test App: https://github.com/berpress/flask-restful-api
 
-https://github.com/berpress/python-api-tests
+JS Api tests: https://github.com/berpress/js-api-tests
+
+Python Api tests: https://github.com/berpress/python-api-tests
+
+Contact me with telegram @litovsky
