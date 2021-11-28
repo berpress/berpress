@@ -3,6 +3,11 @@
 - 🔭 I am currently working as an automated testing specialist and teaching students.
 - ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker
 
+Application for testing
+API for testing: https://stores-tests-api.herokuapp.com
+
+UI for testing: https://berpress.github.io/react-shop/
+
 
 These repositories will help you learn test automation
 
