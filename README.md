@@ -4,6 +4,8 @@
 - ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker
 
 Application for testing
+
+
 API for testing: https://stores-tests-api.herokuapp.com
 
 UI for testing: https://berpress.github.io/react-shop/
