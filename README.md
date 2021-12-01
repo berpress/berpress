@@ -6,19 +6,25 @@
 **Application for testing**
 
 
-API for testing: https://stores-tests-api.herokuapp.com
+🐍 API for testing: https://stores-tests-api.herokuapp.com
 
-UI for testing: https://berpress.github.io/react-shop/
+🚀 UI for testing: https://berpress.github.io/react-shop/
 
 
 **These repositories will help you learn test automation**
 
-Test App (Python/Flask): https://github.com/berpress/flask-restful-api
+🚀 Test App (Python/Flask): https://github.com/berpress/flask-restful-api
 
-JS Api tests: https://github.com/berpress/js-api-tests
+💡 JS Api tests: https://github.com/berpress/js-api-tests
 
-Python Api tests: https://github.com/berpress/python-api-tests
+🐍 Python Api tests: https://github.com/berpress/python-api-tests
 
-Python Selenium UI tests https://github.com/berpress/selenium-shop-python-tests
+🐍 Python Selenium UI tests https://github.com/berpress/selenium-shop-python-tests
 
-Contact me with telegram @litovsky
+**Other**
+
+🔎 Postman https://github.com/berpress/postman-api-tests
+
+📖 QA Links https://github.com/berpress/qa-knowledge-base/blob/main/README.md
+
+✍️ Contact me with telegram @litovsky
