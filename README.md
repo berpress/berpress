@@ -17,6 +17,8 @@
 
 💡 JS Api tests: https://github.com/berpress/js-api-tests
 
+💡 TS E2E Playwright tests: https://github.com/berpress/playwright-ts-e2e-tests
+
 🐍 Python Api tests: https://github.com/berpress/python-api-tests
 
 🐍 Python Selenium UI tests https://github.com/berpress/selenium-shop-python-tests
