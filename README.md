@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am currently working as an automated testing specialist and teaching students.
-- ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker
+- ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker/K6/Selenium
 
 **Application for testing**
 
