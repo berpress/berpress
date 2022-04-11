@@ -8,7 +8,9 @@
 
 🐍 API for testing: https://stores-tests-api.herokuapp.com
 
-🚀 UI for testing: https://berpress.github.io/react-shop/
+🚀 UI for testing (food shop): https://berpress.github.io/react-shop/
+
+🚀 UI for testing (tourism portal): https://cypress-tourism-app.herokuapp.com
 
 
 **These repositories will help you learn test automation**
