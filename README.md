@@ -17,13 +17,13 @@
 
 🚀 Test App (Python/Flask): https://github.com/berpress/flask-restful-api
 
-💡 JavaScript API tests: https://github.com/berpress/js-api-tests
+💡 JavaScript API (**Jest**) tests: https://github.com/berpress/js-api-tests
 
-💡 TypeScript E2E Playwright tests: https://github.com/berpress/playwright-ts-e2e-tests
+💡 TypeScript E2E **Playwright** tests: https://github.com/berpress/playwright-ts-e2e-tests
 
-🐍 Python API tests: https://github.com/berpress/python-api-tests
+🐍 Python API (**pytest**) tests: https://github.com/berpress/python-api-tests
 
-🐍 Python Selenium UI tests https://github.com/berpress/selenium-shop-python-tests
+🐍 Python UI (**Selenium**) tests https://github.com/berpress/selenium-shop-python-tests
 
 **Other**
 
