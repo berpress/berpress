@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I am currently working as an automated testing specialist and teaching students.
-- ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker/K6/Selenium
+- ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker/K6/Selenium 
+
+**Tools for testing**
+
+📝 API report coverage (for Python/pytest) https://github.com/berpress/swagger-coverage
+
 
 **Application for testing**
 
