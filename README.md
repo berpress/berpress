@@ -36,4 +36,6 @@
 
 📖 QA Links https://github.com/berpress/qa-knowledge-base/blob/main/README.md
 
+🔩 Design Patterns (Python) https://github.com/berpress/design-pattern-python
+
 ✍️ Contact me with telegram @litovsky
