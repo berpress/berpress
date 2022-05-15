@@ -38,4 +38,6 @@
 
 🔩 Design Patterns (Python) https://github.com/berpress/design-pattern-python
 
+🔲 SQL (rus) https://github.com/berpress/Learn-SQL
+
 ✍️ Contact me with telegram @litovsky
