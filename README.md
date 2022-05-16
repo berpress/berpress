@@ -40,4 +40,6 @@
 
 🔲 SQL (rus) https://github.com/berpress/Learn-SQL
 
+💻 Linux terminal (rus) https://github.com/berpress/Linux-Commands-Cheat-Sheet
+
 ✍️ Contact me with telegram @litovsky
