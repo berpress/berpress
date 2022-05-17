@@ -2,6 +2,7 @@
 
 - 🔭 I am currently working as an automated testing specialist and teaching students.
 - ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker/K6/Selenium 
+- ✍️ Contact me with telegram @litovsky or email berpress@gmail.com
 
 **Tools for testing**
 
@@ -45,4 +46,4 @@
 🔦 GIT (rus) https://github.com/berpress/GIT
 
 
-✍️ Contact me with telegram @litovsky
+
