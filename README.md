@@ -42,4 +42,6 @@
 
 💻 Linux terminal (rus) https://github.com/berpress/Linux-Commands-Cheat-Sheet
 
+🔦 GIT (rus) https://github.com/berpress/GIT
+
 ✍️ Contact me with telegram @litovsky
