@@ -35,7 +35,7 @@
 
 🕐 **K6** (JS) https://github.com/berpress/k6-load-tests
 
-🕣 **Locust** (Python) https://github.com/berpress/locust-load-tests
+🕣 **Locust** (Python) https://github.com/berpress/load_testing
 
 **Other**
 
