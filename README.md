@@ -31,6 +31,12 @@
 
 🐍 Python UI **Selenium** tests https://github.com/berpress/selenium-shop-python-tests
 
+**Load testing**
+
+🕐 **K6** (JS) https://github.com/berpress/k6-load-tests
+
+🕣 **Locust** (Python) https://github.com/berpress/locust-load-tests
+
 **Other**
 
 🔎 Postman https://github.com/berpress/postman-api-tests
