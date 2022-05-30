@@ -27,6 +27,8 @@
 
 💡 TypeScript E2E **Playwright** tests: https://github.com/berpress/playwright-ts-e2e-tests
 
+💡 TypeScript API **Jest** tests: https://github.com/berpress/TS-api-tests
+
 🐍 Python API **pytest** tests: https://github.com/berpress/python-api-tests
 
 🐍 Python UI **Selenium** tests https://github.com/berpress/selenium-shop-python-tests
