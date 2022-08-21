@@ -10,7 +10,7 @@
 
 📝 QASE client (for Python/pytest) https://github.com/berpress/custom-qase-client
 
-📝 QASE pytest plugin (for Python/pytest) https://github.com/berpress/custom-qase-client
+📝 QASE pytest plugin (for Python/pytest) https://github.com/berpress/cqase-pytest
 
 
 **Application for testing**
