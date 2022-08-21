@@ -7,6 +7,8 @@
 **Tools for testing**
 
 📝 API report coverage (for Python/pytest) https://github.com/berpress/swagger-coverage
+📝 QASE client (for Python/pytest) https://github.com/berpress/custom-qase-client
+📝 QASE pytest plugin (for Python/pytest) https://github.com/berpress/custom-qase-client
 
 
 **Application for testing**
