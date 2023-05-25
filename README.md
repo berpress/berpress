@@ -12,6 +12,8 @@
 
 📝 QASE pytest plugin (for Python/pytest) https://github.com/berpress/cqase-pytest
 
+📝 Webhook server for testing (Python) https://github.com/berpress/webhook_python
+
 
 **Application for testing**
 
