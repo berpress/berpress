@@ -18,7 +18,7 @@
 **Application for testing**
 
 
-🐍 API for testing: https://stores-tests-api.herokuapp.com
+🐍 API for testing: https://stores-tests-api.herokuapp.com (! not work, use docker version)
 
 🚀 UI for testing (food shop): https://berpress.github.io/react-shop/
 
