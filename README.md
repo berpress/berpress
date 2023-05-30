@@ -18,7 +18,7 @@
 **Application for testing**
 
 Attention!
-Since the service herokuapp is down, you need to use docker
+Since the service herokuapp is down, you need to use docker for api tests
 ```
 docker run -d -p 56733:80 litovsky/flask-api-test
 ```
