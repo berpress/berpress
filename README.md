@@ -17,6 +17,12 @@
 
 **Application for testing**
 
+Attention!
+Since the service herokuapp is down, you need to use docker
+```
+docker run -d -p 56733:80 litovsky/flask-api-test
+```
+
 
 🐍 API for testing: https://stores-tests-api.herokuapp.com (! not work, use docker version)
 
