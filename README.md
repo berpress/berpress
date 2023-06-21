@@ -4,6 +4,9 @@
 - ⚙️ I use daily: Python/JS/TS/Pytest/Playwright/GitLab/Docker/K6/Selenium 
 - ✍️ Contact me with telegram @litovsky or email berpress@gmail.com
 
+🚀 Карта развития в автоматизированном тестировании Python https://github.com/berpress/qa-python-map
+
+
 **Tools for testing**
 
 📝 API report coverage (for Python/pytest) https://github.com/berpress/swagger-coverage
