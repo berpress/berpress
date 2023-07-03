@@ -47,6 +47,7 @@ docker run -d -p 56733:80 litovsky/flask-api-test
 🐍 Python API **pytest** tests: https://github.com/berpress/python-api-tests
 
 🐍 Python UI **Selenium** tests https://github.com/berpress/selenium-shop-python-tests
+
 🐍 Python API tests with string typing https://github.com/berpress/type_python_api_tests/tree/main
 
 **Load testing**
