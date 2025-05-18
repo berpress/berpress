@@ -50,6 +50,8 @@ docker run -d -p 56733:80 litovsky/flask-api-test
 
 🐍 Python API tests with strong typing https://github.com/berpress/type_python_api_tests/tree/main
 
+🐍 Python API tests with **Behave** https://github.com/berpress/python-api-tests-behave
+
 **Load testing**
 
 🕐 **K6** (JS) https://github.com/berpress/k6-load-tests
